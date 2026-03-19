@@ -81,11 +81,10 @@ This asset includes third-party open-source components:
 - License: MIT
 - Used as a dependency required by SharpCompress
 
-See `Third-Party Notices.txt` and included license files for full details.
-
 ## Asset Store Legal Notice
 
-This asset uses SharpCompress under the MIT License and ZstdSharp under the MIT License; see `Third-Party Notices.txt` in the package for details.
+This asset uses SharpCompress under the MIT License and ZstdSharp under the MIT License;
+Source: https://github.com/CyberYagir/Archeves-Extractor-Unity-Plugin
 
 ## Documentation
 
@@ -114,6 +113,6 @@ If you encounter an issue, please include:
 - Added automatic AssetDatabase refresh after extraction
 
 ## License
+Third-party components retain their own licenses as listed in the package documentation. MIT
 
-The code and editor integration of this asset are provided by the publisher.
-Third-party components retain their own licenses as listed in the package documentation.
+Source: https://github.com/CyberYagir/Archeves-Extractor-Unity-Plugin
