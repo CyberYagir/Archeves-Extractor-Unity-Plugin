@@ -83,11 +83,9 @@ This asset includes third-party open-source components:
 - License: MIT
 - Used as a dependency required by SharpCompress
 
-See `Third-Party Notices.txt` and included license files for full details.
-
 ## Asset Store Legal Notice
 
-This asset uses SharpCompress under the MIT License and ZstdSharp under the MIT License; see `Third-Party Notices.txt` in the package for details.
+This asset uses SharpCompress under the MIT License and ZstdSharp under the MIT License;
 
 ## Documentation
 
