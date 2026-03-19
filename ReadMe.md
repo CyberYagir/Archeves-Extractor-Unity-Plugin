@@ -1,5 +1,7 @@
 # Archive Extractor for Unity
 
+<img src="Store/screen.png">
+
 Extract archives directly inside the Unity Editor from the Project window.
 
 Archive Extractor is a lightweight editor extension that adds a context menu action for archive files in the Unity Project window and extracts them into a folder next to the selected archive.
