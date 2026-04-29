@@ -58,7 +58,7 @@ namespace ArchivesExtractor
                 .OrderByDescending(x => x.extension.Length)
                 .FirstOrDefault(x => path.EndsWith(x.extension, StringComparison.OrdinalIgnoreCase));
 
-            return data.extractor;
+            return data?.extractor;
         }
     }
 }

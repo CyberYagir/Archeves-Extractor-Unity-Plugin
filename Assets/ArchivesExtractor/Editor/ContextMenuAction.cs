@@ -51,8 +51,7 @@ namespace ArchivesExtractor
                 if (!overwrite)
                     return;
             }
-
-            extractor.Extract(fullPath);
+            extractor?.Extract(fullPath);
         }
 
         [MenuItem("Assets/Extract Archive to Folder", true)]
